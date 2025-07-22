@@ -5,7 +5,7 @@
 **Analista de Seguridad / Red Team Junior**
 
 ## 🧰 Tecnologías  
-`Kali Linux`, `Nmap`, `Hydra`, `WPScan`, `Autopsy`, `Metasploit`, `Hashcat`, `Rkhunter`, `John the Ripper`
+`Kali Linux`, `Nmap`, `Hydra`, `WPScan`, `Autopsy`, `Metasploit`, `Hashcat`, `Rkhunter`, `John the Ripper`, `ipcs`, `ps`, `debsums`
 
 ---
 
